@@ -16,7 +16,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=20%>
 
 
-- :school: I am a `Student` in [Faculty of Computers & Artificial Intelligence](https://www.svnu.edu.eg/faculties/fci/en/home-page-en/) at [South Valley National University](https://www.svnu.edu.eg/ar/).
+- :school: - 🎓 I’m a student at [Faculty of Computers & Informatics](http://www.svnu.edu.eg/com/index.html), [SVNU](http://www.svnu.edu.eg/)
 - :technologist: I love using Software to solve real-world `Problems`.
 - :computer: I am a competitive programmer at `Codeforces`.
 - :student: I’m currently learning `MongoDB`, `Express.js`, `Angular`, `Node.js`, `TypeScript`, `UI/UX Design` & advanced `Software Engineering` concepts.
