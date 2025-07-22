@@ -41,9 +41,9 @@
 ## My Skills
 
 ### Programming languages
-| C++ | JavaScript | typescript | HTML5 | CSS3 |
-|----------|----------|----------|----------|----------|
-|<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>|<a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>|<a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>|<a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>|<a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white"></a>|
+| C++ | JavaScript | TypeScript | HTML5 | CSS3 |
+|-----|------------|------------|-------|------|
+|<a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>|<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>|<a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>|<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>|<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>|
 
 
 ### Frontend & Backend Development
