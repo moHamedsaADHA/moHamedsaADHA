@@ -1,82 +1,65 @@
+# إعادة استخدام نفس قالب README ولكن مع استبدال البيانات بمعلومات المستخدم محمد سعد
 
-# 👨‍💻 Mohamed Saad
+readme_content = """
+<h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
+<h3 align="center">A passionate Full-Stack Developer from Egypt 🇪🇬</h3>
 
-### 💼 Full-Stack Developer | MEAN Stack Enthusiast | ICPC Participant
+- 🔭 I’m currently studying at **Faculty of Computers and Artificial Intelligence, South Valley University**
 
----
+- 🌱 I’m currently learning **MEAN Stack, UI/UX Design, Problem Solving, Parallel Programming**
 
-## 📍 Personal Info
+- 👯 I’m looking to collaborate on **Full-Stack Web Applications**
 
-- 📍 **Address:** Ain Shams (Currently in Qena, Egypt)
-- 📞 **Phone:** [+20 1092731005](tel:+201092731005) | [+20 1558232962](tel:+201558232962)
-- 📧 **Email:** [msmsmsh222789@gmail.com](mailto:msmsmsh222789@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/mohammed-saad-b33767320](https://www.linkedin.com/in/mohammed-saad-b33767320)
-- 🐙 **GitHub:** [github.com/moHamedsaADHA](https://github.com/moHamedsaADHA)
-- 📘 **Facebook:** [facebook.com/mody.mohammed.9210](https://facebook.com/mody.mohammed.9210)
-- 💬 **WhatsApp:** [Chat Now](https://wa.me/201092731005)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/moHamedsaADHA)
 
----
+- 📫 How to reach me **msmsmsh222789@gmail.com**
 
-## 🧠 Summary
+- 📄 Know about my experiences: [LinkedIn](https://linkedin.com/in/mohammed-saad-b33767320)
 
-Ambitious young developer and programmer currently pursuing a Bachelor's degree at the Faculty of Computers and Artificial Intelligence, South Valley National University.  
-Skilled in web development using MEAN Stack technologies, with strong understanding of object-oriented programming, UI/UX design, and data structures.  
-Proficient in full-stack project implementation. Holds certifications in English, UI/UX, and Node.js.  
-Participant in the ICPC programming competition. Excellent problem-solving skills and communication abilities.
+- ⚡ Fun fact **I love gym & weightlifting!**
 
 ---
 
-## 🎓 Education
+### 🛠️ Languages and Tools
 
-**Faculty of Computers and Artificial Intelligence - South Valley National University**  
-_Bachelor's Degree in Computer Science_  
-**Expected Graduation:** 2028
-
----
-
-## 💻 Technical Skills
-
-- **Languages:** HTML5, CSS3, JavaScript, C++
-- **Concepts:** OOP, Data Structures, Databases, Parallel Programming, Modeling & Simulation
-- **Frontend:** Angular
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** GitHub, UI/UX Design
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-ff69b4?style=for-the-badge" />
+</p>
 
 ---
 
-## 🤝 Soft Skills
+### 📊 GitHub Stats
 
-- Problem Solving
-- Communication
-- Teamwork
-- English as a Second Language (ESL)
-
----
-
-## 🏆 Certifications
-
-- English Language Certificate
-- UI/UX Design Certificate
-- Node.js Certificate
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moHamedsaADHA&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moHamedsaADHA&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 💡 Projects
+### 📫 Connect with me
 
-Worked on multiple full-stack web projects using Angular, Node.js, Express.js, and MongoDB.  
-Projects demonstrate strong understanding of web architecture, REST APIs, UI design, and backend logic.
+<p align="left">
+  <a href="mailto:msmsmsh222789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohammed-saad-b33767320"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/moHamedsaADHA"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://facebook.com/mody.mohammed.9210"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://wa.me/201092731005"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+"""
 
----
+# حفظ المحتوى في ملف README جديد
+file_path = "/mnt/data/README_MohamedSaad.md"
+with open(file_path, "w", encoding="utf-8") as f:
+    f.write(readme_content)
 
-## 🎯 Career Objective
-
-Aspire to work in top-tier tech companies like Microsoft or Google.  
-Passionate about developing scalable web and mobile applications and contributing to impactful software solutions.  
-Seeking both full-time opportunities and freelance projects in modern full-stack development.
-
----
-
-## 🏋️‍♂️ Hobbies
-
-- Gym & Weightlifting
+file_path
