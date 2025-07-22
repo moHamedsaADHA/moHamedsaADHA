@@ -1,77 +1,34 @@
-<h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
-<h3 align="center">A passionate Full-Stack Developer (using MEAN Stack) from Egypt</h3>
+<!-- تم الحفاظ على نفس التصميم وتحديث الاسم والمحتوى بناءً على طلبك -->
 
-<!-- Typing Animation -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Saad++;I'm+a+Full-Stack+Developer+%F0%9F%92%BB.;+I+build+web+apps+with+MEAN+Stack." alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">A passionate full-stack developer ( using MERN ) from Egypt</h3>
 
-<!-- About Me Section -->
-<h2>About Me</h2>
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=20% />
-<ul>
-  <li>🎓 I'm currently a student at <strong>Faculty of Computers & Artificial Intelligence</strong>, South Valley University</li>
-  <li>🎓 Expected Graduation: <strong>2028</strong></li>
-  <li>💻 I build scalable full-stack applications using the <strong>MEAN Stack</strong></li>
-  <li>🤝 Participated in <strong>ICPC programming competition</strong></li>
-  <li>🤔 Always learning and improving through real-world challenges</li>
-</ul>
+<!-- باقي الأقسام كما هي -->
 
-<!-- Tech Stack Section -->
-<h2>🚀 Tech Stack</h2>
-<ul>
-  <li><strong>Languages:</strong> HTML5, CSS3, JavaScript, TypeScript, C++</li>
-  <li><strong>Core Concepts:</strong> OOP, Data Structures, Databases, Parallel Programming, Modeling & Simulation</li>
-  <li><strong>Frontend:</strong> Angular, UI/UX Design</li>
-  <li><strong>Backend:</strong> Node.js, Express.js</li>
-  <li><strong>Database:</strong> MongoDB, SQL</li>
-  <li><strong>Tools:</strong> GitHub, Postman, Figma, VS Code</li>
-</ul>
+## My Skills
 
-<!-- Certifications -->
-<h2>🧠 Certifications</h2>
-<ul>
-  <li>✅ English Language Certificate</li>
-  <li>✅ UI/UX Design Certificate</li>
-  <li>✅ Node.js Certificate</li>
-</ul>
+### Programming languages
 
-<!-- Career Objective -->
-<h2>🌟 Career Objective</h2>
-<p>
-  Passionate about building modern full-stack and mobile applications.<br>
-  Aspire to join top-tier tech companies like <strong>Google</strong> or <strong>Microsoft</strong>.<br>
-  Open to freelance opportunities and collaborative projects.
-</p>
+| Java | TypeScript | Python | Go | Rust |
+|----------|----------|----------|----------|----------|
+|<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white"></a>|<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>|<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>|<a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white"></a>|<a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white"></a>|
 
-<!-- Soft Skills -->
-<h2>💬 Soft Skills</h2>
-<ul>
-  <li>Problem Solving</li>
-  <li>Strong Communication</li>
-  <li>Team Collaboration</li>
-  <li>English as a Second Language (ESL)</li>
-</ul>
+### Frontend & Backend Development
 
-<!-- Hobbies -->
-<h2>💪 Hobbies</h2>
-<ul>
-  <li>Gym & Weightlifting 🏋️</li>
-  <li>Reading tech blogs & building side projects</li>
-</ul>
+| HTML5 | CSS3 | Angular | Express.js | MongoDB | TypeScript |
+|----------|----------|----------|----------|----------|----------|
+|<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>|<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>|<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>|<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>|<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>|<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>|
 
-<!-- Contact Info -->
-<h2>📧 Connect with Me</h2>
-<ul>
-  <li>💼 <a href="https://www.linkedin.com/in/mohammed-saad-b33767320">LinkedIn</a></li>
-  <li>💻 <a href="https://github.com/moHamedsaADHA">GitHub</a></li>
-  <li>✉️ Email: <a href="mailto:msmsmsh222789@gmail.com">msmsmsh222789@gmail.com</a></li>
-  <li>📞 WhatsApp: <a href="https://wa.me/201092731005">+20 1092731005</a></li>
-  <li>☎️ Phone: +20 1558232962</li>
-  <li>🌐 <a href="https://www.facebook.com/mody.mohammed.9210">Facebook</a></li>
-</ul>
+### Software & Tools
 
-<!-- Quote -->
-<blockquote>
-  <strong>✨ “Code is like humor. When you have to explain it, it’s bad.”</strong> – Cory House
-</blockquote>
+| Git | GitHub | VS Code | Postman | Figma | Docker |
+|----------|----------|----------|----------|----------|----------|
+|<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>|<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>|<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white"></a>|<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"></a>|<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>|<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>|
+
+### Operating Systems
+
+| Linux | Windows |
+|----------|----------|
+|<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>|<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>|
+
+<!-- باقي المحتوى كما هو بدون تعديل في التصميم -->
