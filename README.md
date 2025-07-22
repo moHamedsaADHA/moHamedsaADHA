@@ -41,7 +41,8 @@
 ## My Skills
 
 ### Programming languages
-
+| C++ | JavaScript | typescript | HTML5 | CSS3 |
+|----------|----------|----------|----------|----------|
 |<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>|<a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>|<a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>|<a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>|<a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white"></a>|
 
 
@@ -63,7 +64,7 @@
 
 ### Software & Tools
 
-| Git | GitHub | Google Sheets | Stack Overflow | GeeksforGeeks | MySQL | Postman | Figma |
+| Git | GitHub | Google Sheets | Stack Overflow | GeeksforGeeks | SQL | Postman | Figma |
 |-----|--------|----------------|----------------|----------------|--------|---------|--------|
 |<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">|<a href="https://github.com/moHamedsaADHA" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>|<img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google-sheets&logoColor=white">|<img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white">|<img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white">|<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/>|<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">|<img src="https://img.shields.io/badge/Figma-%23F24E1E?style=plastic&logo=figma&logoColor=white">|
 
@@ -72,7 +73,7 @@
 ### Operating Systems
 
 | Windows |
-|--------|---------|
+|--------|
 |<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">|<img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">|
 
 ---
