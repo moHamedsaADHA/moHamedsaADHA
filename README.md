@@ -1,34 +1,82 @@
-<!-- تم الحفاظ على نفس التصميم وتحديث الاسم والمحتوى بناءً على طلبك -->
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate full-stack developer ( using MERN ) from Egypt</h3>
+# 👨‍💻 Mohamed Saad
 
-<!-- باقي الأقسام كما هي -->
+### 💼 Full-Stack Developer | MEAN Stack Enthusiast | ICPC Participant
 
-## My Skills
+---
 
-### Programming languages
+## 📍 Personal Info
 
-| Java | TypeScript | Python | Go | Rust |
-|----------|----------|----------|----------|----------|
-|<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white"></a>|<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>|<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>|<a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white"></a>|<a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white"></a>|
+- 📍 **Address:** Ain Shams (Currently in Qena, Egypt)
+- 📞 **Phone:** [+20 1092731005](tel:+201092731005) | [+20 1558232962](tel:+201558232962)
+- 📧 **Email:** [msmsmsh222789@gmail.com](mailto:msmsmsh222789@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/mohammed-saad-b33767320](https://www.linkedin.com/in/mohammed-saad-b33767320)
+- 🐙 **GitHub:** [github.com/moHamedsaADHA](https://github.com/moHamedsaADHA)
+- 📘 **Facebook:** [facebook.com/mody.mohammed.9210](https://facebook.com/mody.mohammed.9210)
+- 💬 **WhatsApp:** [Chat Now](https://wa.me/201092731005)
 
-### Frontend & Backend Development
+---
 
-| HTML5 | CSS3 | Angular | Express.js | MongoDB | TypeScript |
-|----------|----------|----------|----------|----------|----------|
-|<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>|<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>|<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>|<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>|<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>|<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>|
+## 🧠 Summary
 
-### Software & Tools
+Ambitious young developer and programmer currently pursuing a Bachelor's degree at the Faculty of Computers and Artificial Intelligence, South Valley National University.  
+Skilled in web development using MEAN Stack technologies, with strong understanding of object-oriented programming, UI/UX design, and data structures.  
+Proficient in full-stack project implementation. Holds certifications in English, UI/UX, and Node.js.  
+Participant in the ICPC programming competition. Excellent problem-solving skills and communication abilities.
 
-| Git | GitHub | VS Code | Postman | Figma | Docker |
-|----------|----------|----------|----------|----------|----------|
-|<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>|<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>|<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white"></a>|<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"></a>|<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>|<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>|
+---
 
-### Operating Systems
+## 🎓 Education
 
-| Linux | Windows |
-|----------|----------|
-|<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>|<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>|
+**Faculty of Computers and Artificial Intelligence - South Valley National University**  
+_Bachelor's Degree in Computer Science_  
+**Expected Graduation:** 2028
 
-<!-- باقي المحتوى كما هو بدون تعديل في التصميم -->
+---
+
+## 💻 Technical Skills
+
+- **Languages:** HTML5, CSS3, JavaScript, C++
+- **Concepts:** OOP, Data Structures, Databases, Parallel Programming, Modeling & Simulation
+- **Frontend:** Angular
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** GitHub, UI/UX Design
+
+---
+
+## 🤝 Soft Skills
+
+- Problem Solving
+- Communication
+- Teamwork
+- English as a Second Language (ESL)
+
+---
+
+## 🏆 Certifications
+
+- English Language Certificate
+- UI/UX Design Certificate
+- Node.js Certificate
+
+---
+
+## 💡 Projects
+
+Worked on multiple full-stack web projects using Angular, Node.js, Express.js, and MongoDB.  
+Projects demonstrate strong understanding of web architecture, REST APIs, UI design, and backend logic.
+
+---
+
+## 🎯 Career Objective
+
+Aspire to work in top-tier tech companies like Microsoft or Google.  
+Passionate about developing scalable web and mobile applications and contributing to impactful software solutions.  
+Seeking both full-time opportunities and freelance projects in modern full-stack development.
+
+---
+
+## 🏋️‍♂️ Hobbies
+
+- Gym & Weightlifting
