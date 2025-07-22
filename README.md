@@ -1,65 +1,77 @@
-# Hi there 👋  
+<h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
+<h3 align="center">A passionate Full-Stack Developer (using MEAN Stack) from Egypt</h3>
 
-Welcome to my GitHub! I'm **Mohamed Saad** — a Full-Stack Developer focused on building scalable web applications and systems using the **MEAN Stack** (MongoDB, Express, Angular, Node.js).  
-📚 I'm currently pursuing a Bachelor's degree at the *Faculty of Computers & Artificial Intelligence, South Valley National University*  
-🎓 Expected Graduation: **2028**  
-📈 I’m improving daily through real-world projects, online courses, and competitive programming challenges.
+<!-- Typing Animation -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Saad++;I'm+a+Full-Stack+Developer+%F0%9F%92%BB.;+I+build+web+apps+with+MEAN+Stack." alt="Typing SVG" />
+</h1>
 
-## 🚀 Tech Stack:
-- 💻 **Languages:** HTML5, CSS3, JavaScript, TypeScript, C++
-- 🧠 **Core Concepts:** OOP, Data Structures, Databases, Parallel Programming, Modeling & Simulation
-- 🖥️ **Frontend:** Angular, UI/UX Design
-- 🔧 **Backend:** Node.js, Express.js
-- 🗄️ **Database:** MongoDB, SQL
-- ⚙️ **Tools & Platforms:** GitHub, Postman, Figma, VS Code
+<!-- About Me Section -->
+<h2>About Me</h2>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=20% />
+<ul>
+  <li>🎓 I'm currently a student at <strong>Faculty of Computers & Artificial Intelligence</strong>, South Valley University</li>
+  <li>🎓 Expected Graduation: <strong>2028</strong></li>
+  <li>💻 I build scalable full-stack applications using the <strong>MEAN Stack</strong></li>
+  <li>🤝 Participated in <strong>ICPC programming competition</strong></li>
+  <li>🤔 Always learning and improving through real-world challenges</li>
+</ul>
 
-## 🧠 Certifications:
-- ✅ English Language Certificate  
-- ✅ UI/UX Design Certificate  
-- ✅ Node.js Certificate  
+<!-- Tech Stack Section -->
+<h2>🚀 Tech Stack</h2>
+<ul>
+  <li><strong>Languages:</strong> HTML5, CSS3, JavaScript, TypeScript, C++</li>
+  <li><strong>Core Concepts:</strong> OOP, Data Structures, Databases, Parallel Programming, Modeling & Simulation</li>
+  <li><strong>Frontend:</strong> Angular, UI/UX Design</li>
+  <li><strong>Backend:</strong> Node.js, Express.js</li>
+  <li><strong>Database:</strong> MongoDB, SQL</li>
+  <li><strong>Tools:</strong> GitHub, Postman, Figma, VS Code</li>
+</ul>
 
-## 🏆 Competitions:
-- 💡 ICPC (International Collegiate Programming Contest) — Participant
+<!-- Certifications -->
+<h2>🧠 Certifications</h2>
+<ul>
+  <li>✅ English Language Certificate</li>
+  <li>✅ UI/UX Design Certificate</li>
+  <li>✅ Node.js Certificate</li>
+</ul>
 
-## 🎯 Career Objective:
-Passionate about building modern full-stack and mobile applications.  
-Aspire to join top-tier tech companies like **Google** or **Microsoft** and contribute to impactful software solutions.  
-Open to freelance opportunities and collaborative projects.
+<!-- Career Objective -->
+<h2>🌟 Career Objective</h2>
+<p>
+  Passionate about building modern full-stack and mobile applications.<br>
+  Aspire to join top-tier tech companies like <strong>Google</strong> or <strong>Microsoft</strong>.<br>
+  Open to freelance opportunities and collaborative projects.
+</p>
 
-## 💬 Soft Skills:
-- Problem Solving  
-- Strong Communication  
-- Team Collaboration  
-- English as a Second Language (ESL)
+<!-- Soft Skills -->
+<h2>💬 Soft Skills</h2>
+<ul>
+  <li>Problem Solving</li>
+  <li>Strong Communication</li>
+  <li>Team Collaboration</li>
+  <li>English as a Second Language (ESL)</li>
+</ul>
 
-## 💪 Hobbies:
-- Gym & Weightlifting 🏋️  
-- Reading tech blogs & building side projects  
+<!-- Hobbies -->
+<h2>💪 Hobbies</h2>
+<ul>
+  <li>Gym & Weightlifting 🏋️</li>
+  <li>Reading tech blogs & building side projects</li>
+</ul>
 
-## 📫 Connect with me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-saad-b33767320)  
-- 💻 [GitHub](https://github.com/moHamedsaADHA)  
-- ✉️ Email: msmsmsh222789@gmail.com  
-- 📱 WhatsApp: [+20 1558232962](https://wa.me/201558232962)  
-- ☎️ Phone: +20 1092731005  
-- 🌐 [Facebook](https://facebook.com/mody.mohammed.9210)
+<!-- Contact Info -->
+<h2>📧 Connect with Me</h2>
+<ul>
+  <li>💼 <a href="https://www.linkedin.com/in/mohammed-saad-b33767320">LinkedIn</a></li>
+  <li>💻 <a href="https://github.com/moHamedsaADHA">GitHub</a></li>
+  <li>✉️ Email: <a href="mailto:msmsmsh222789@gmail.com">msmsmsh222789@gmail.com</a></li>
+  <li>📞 WhatsApp: <a href="https://wa.me/201092731005">+20 1092731005</a></li>
+  <li>☎️ Phone: +20 1558232962</li>
+  <li>🌐 <a href="https://www.facebook.com/mody.mohammed.9210">Facebook</a></li>
+</ul>
 
----
-
-> ✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
-
-<!--
-**moHamedsaADHA/moHamedsaADHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Quote -->
+<blockquote>
+  <strong>✨ “Code is like humor. When you have to explain it, it’s bad.”</strong> – Cory House
+</blockquote>
