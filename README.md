@@ -7,6 +7,9 @@
 </p>
 
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/66M6ZwJkTLYikvhrqZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PersonaJourney-debug-debugging-hiroshidebug-66M6ZwJkTLYikvhrqZ">via GIPHY</a></p>
+
+
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Saad++;I'm+a+Full-Stack+Developer+%F0%9F%92%BB.;Specialized+in+MEAN+Stack+%F0%9F%92%AA.;+Always+learning+%F0%9F%93%9A." alt="Typing SVG" />
 </h1>
