@@ -7,7 +7,7 @@
 
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Saad++;I'm+a+Full-Stack+Developer+%F0%9F%92%BB.;Specialized+in+MEAN+Stack+%F0%9F%92%AA.;+Always+learning+%F0%9F%93%9A." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=24&pause=1000&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Saad++;I'm+a+Full-Stack+Developer+%F0%9F%92%BB.;Specialized+in+MERN+Stack+%F0%9F%92%AA.;+Always+learning+%F0%9F%93%9A." alt="Typing SVG" />
 </h1>
 
 
