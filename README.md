@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
 <h3 align="center">A passionate full-stack developer ( using MERN ) from Egypt</h3>
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=moHamedsaADHA&theme=onedark" alt="moHamedsaADHA" />
-  </a> 
+ <p align="center">
+  <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400" alt="Debugging GIF">
 </p>
-
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/66M6ZwJkTLYikvhrqZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PersonaJourney-debug-debugging-hiroshidebug-66M6ZwJkTLYikvhrqZ">via GIPHY</a></p>
 
 
 <h1>
